@@ -1,6 +1,6 @@
 # blog.fedecarg.com
 
-My blog http:// blog.fedecarg.com website. Created using Hugo ❤️
+My blog http://blog.fedecarg.com/, created using Hugo ❤️
 
 ```
 $ hugo
