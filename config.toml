@@ -1,0 +1,7 @@
+baseURL = "http://blog.fedecarg.com/"
+languageCode = "en-us"
+title = "Federico Cargnelutti"
+pygmentsUseClasses = true
+
+[permalinks]
+  blog = "/:year/:month/:day/:title/"
