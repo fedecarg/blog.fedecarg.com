@@ -1,2 +1,20 @@
 # blog.fedecarg.com
-The blog.fedecarg.com website. Created using Hugo ❤️
+
+My blog http:// blog.fedecarg.com website. Created using Hugo ❤️
+
+```
+$ hugo
+
+                   | EN
+-------------------+------
+  Pages            | 219
+  Paginator pages  |  53
+  Non-page files   |   0
+  Static files     |  87
+  Processed images |   0
+  Aliases          |  22
+  Sitemaps         |   1
+  Cleaned          |   0
+
+Total in 454 ms
+```
