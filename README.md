@@ -1,6 +1,6 @@
 # blog.fedecarg.com
 
-My blog http://blog.fedecarg.com/, created using Hugo ❤️
+My blog http://blog.fedecarg.com/, migrated from WordPress to Hugo.
 
 ```
 $ hugo
